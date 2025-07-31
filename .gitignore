@@ -24,3 +24,8 @@ venv/
 *.pt
 *.onnx
 node_modules/
+Numpy/download.png
+Numpy/download-1.png
+Numpy/download-2.png
+Numpy/download-3.png
+Numpy/download-4.png
